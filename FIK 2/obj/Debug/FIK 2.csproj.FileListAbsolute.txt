@@ -1,0 +1,5 @@
+D:\Microsoft Visual Studio\FIK 2\bin\Debug\FIK 2.exe.config
+D:\Microsoft Visual Studio\FIK 2\bin\Debug\FIK 2.exe
+D:\Microsoft Visual Studio\FIK 2\bin\Debug\FIK 2.pdb
+D:\Microsoft Visual Studio\FIK 2\obj\Debug\FIK 2.exe
+D:\Microsoft Visual Studio\FIK 2\obj\Debug\FIK 2.pdb
