@@ -1,0 +1,6 @@
+D:\Microsoft Visual Studio\FIK 6\bin\Debug\FIK 6.exe.config
+D:\Microsoft Visual Studio\FIK 6\bin\Debug\FIK 6.exe
+D:\Microsoft Visual Studio\FIK 6\bin\Debug\FIK 6.pdb
+D:\Microsoft Visual Studio\FIK 6\obj\Debug\FIK 6.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\FIK 6\obj\Debug\FIK 6.exe
+D:\Microsoft Visual Studio\FIK 6\obj\Debug\FIK 6.pdb
