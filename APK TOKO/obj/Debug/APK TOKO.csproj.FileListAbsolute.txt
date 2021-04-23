@@ -1,0 +1,30 @@
+E:\APK TOKO\bin\Debug\APK TOKO.exe.config
+E:\APK TOKO\bin\Debug\APK TOKO.exe
+E:\APK TOKO\bin\Debug\APK TOKO.pdb
+E:\APK TOKO\obj\Debug\APK TOKO.csprojResolveAssemblyReference.cache
+E:\APK TOKO\obj\Debug\APK TOKO.exe
+E:\APK TOKO\obj\Debug\APK TOKO.pdb
+D:\APK TOKO\bin\Debug\APK TOKO.exe.config
+D:\APK TOKO\obj\Debug\APK TOKO.exe
+D:\APK TOKO\obj\Debug\APK TOKO.pdb
+D:\APK TOKO\bin\Debug\APK TOKO.exe
+D:\APK TOKO\bin\Debug\APK TOKO.pdb
+D:\APK TOKO\obj\Debug\APK TOKO.csprojResolveAssemblyReference.cache
+F:\APK TOKO\bin\Debug\APK TOKO.exe.config
+F:\APK TOKO\obj\Debug\APK TOKO.exe
+F:\APK TOKO\obj\Debug\APK TOKO.pdb
+F:\APK TOKO\bin\Debug\APK TOKO.exe
+F:\APK TOKO\bin\Debug\APK TOKO.pdb
+F:\APK TOKO\obj\Debug\APK TOKO.csprojResolveAssemblyReference.cache
+E:\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\bin\Debug\APK TOKO.exe.config
+E:\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\obj\Debug\APK TOKO.exe
+E:\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\obj\Debug\APK TOKO.pdb
+E:\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\bin\Debug\APK TOKO.exe
+E:\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\bin\Debug\APK TOKO.pdb
+E:\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\obj\Debug\APK TOKO.csprojResolveAssemblyReference.cache
+D:\usb\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\bin\Debug\APK TOKO.exe.config
+D:\usb\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\obj\Debug\APK TOKO.exe
+D:\usb\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\obj\Debug\APK TOKO.pdb
+D:\usb\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\bin\Debug\APK TOKO.exe
+D:\usb\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\bin\Debug\APK TOKO.pdb
+D:\usb\Microsoft Visual Studio\VISUAL STUDIO\APK TOKO\obj\Debug\APK TOKO.csprojResolveAssemblyReference.cache
