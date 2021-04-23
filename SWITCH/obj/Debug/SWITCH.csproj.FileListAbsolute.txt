@@ -1,0 +1,7 @@
+D:\vc\4\SWITCH\bin\Debug\SWITCH.exe.config
+D:\Microsoft Visual Studio\SWITCH\bin\Debug\SWITCH.exe.config
+D:\Microsoft Visual Studio\SWITCH\bin\Debug\SWITCH.exe
+D:\Microsoft Visual Studio\SWITCH\bin\Debug\SWITCH.pdb
+D:\Microsoft Visual Studio\SWITCH\obj\Debug\SWITCH.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\SWITCH\obj\Debug\SWITCH.exe
+D:\Microsoft Visual Studio\SWITCH\obj\Debug\SWITCH.pdb
