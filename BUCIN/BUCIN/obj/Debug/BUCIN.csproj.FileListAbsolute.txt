@@ -1,0 +1,12 @@
+D:\vc\BUCIN\BUCIN\bin\Debug\BUCIN.exe.config
+D:\vc\BUCIN\BUCIN\obj\Debug\BUCIN.csprojResolveAssemblyReference.cache
+D:\vc\BUCIN\BUCIN\bin\Debug\BUCIN.exe
+D:\vc\BUCIN\BUCIN\bin\Debug\BUCIN.pdb
+D:\vc\BUCIN\BUCIN\obj\Debug\BUCIN.exe
+D:\vc\BUCIN\BUCIN\obj\Debug\BUCIN.pdb
+E:\Microsoft Visual Studio\BUCIN\BUCIN\bin\Debug\BUCIN.exe.config
+E:\Microsoft Visual Studio\BUCIN\BUCIN\obj\Debug\BUCIN.exe
+E:\Microsoft Visual Studio\BUCIN\BUCIN\obj\Debug\BUCIN.pdb
+E:\Microsoft Visual Studio\BUCIN\BUCIN\bin\Debug\BUCIN.exe
+E:\Microsoft Visual Studio\BUCIN\BUCIN\bin\Debug\BUCIN.pdb
+E:\Microsoft Visual Studio\BUCIN\BUCIN\obj\Debug\BUCIN.csprojResolveAssemblyReference.cache
