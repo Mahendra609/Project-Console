@@ -1,0 +1,6 @@
+D:\Microsoft Visual Studio\FIK 7\bin\Debug\FIK 7.exe.config
+D:\Microsoft Visual Studio\FIK 7\bin\Debug\FIK 7.exe
+D:\Microsoft Visual Studio\FIK 7\bin\Debug\FIK 7.pdb
+D:\Microsoft Visual Studio\FIK 7\obj\Debug\FIK 7.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\FIK 7\obj\Debug\FIK 7.exe
+D:\Microsoft Visual Studio\FIK 7\obj\Debug\FIK 7.pdb
